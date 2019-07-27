@@ -16,10 +16,9 @@ class MapController(@Autowired val countryService: CountryService) {
     val logger = LoggerFactory.getLogger(MapController::class.java.name)
 
     @GetMapping
-    fun greeting(@RequestParam(name="name", required = false, defaultValue = "World") name: String, model: Model): String {
+    fun greeting(@RequestParam(name="name", required = false, defaultValue = "Jason") name: String, model: Model): String {
         model.addAttribute("name", name)
         model.addAttribute("countries", countryService.findAll())
-        model.addAttribute("country", Country("fake"))
         return "map"
     }
 
