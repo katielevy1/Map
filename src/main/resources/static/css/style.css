@@ -1,0 +1,23 @@
+
+body {
+    background-color: #d6ecfb;
+    font-family: arial,helvetica,sans-serif;
+}
+
+#textContent {
+    margin: 30px;
+    background: aliceblue;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+/* Always set the map height explicitly to define the size of the div
+         * element that contains the map. */
+#map {
+    height: 100%;
+}
+/*html, body {*/
+/*    height: 100%;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/

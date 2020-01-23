@@ -4,10 +4,12 @@ import com.klevy.map.dataModels.Country
 import com.klevy.map.service.CountryService
 import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Autowired
+import org.springframework.boot.json.GsonJsonParser
 import org.springframework.http.HttpStatus
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
 import org.springframework.web.bind.annotation.*
+import java.io.FileReader
 import javax.validation.Valid
 
 
@@ -19,6 +21,7 @@ class MapController(@Autowired val countryService: CountryService) {
     fun greeting(@RequestParam(name="name", required = false, defaultValue = "Jason") name: String, model: Model): String {
         model.addAttribute("name", name)
         model.addAttribute("countries", countryService.findAll())
+//        model.addAttribute("countryNameList", )
         return "map"
     }
 

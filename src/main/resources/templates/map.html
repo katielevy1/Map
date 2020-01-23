@@ -15,9 +15,46 @@
             height: 100%;
             margin: 0;
             padding: 0;
+            background-color: #d6ecfb;
+            font-family: arial,helvetica,sans-serif;
         }
         #textContent {
             margin: 30px;
+            background: aliceblue;
+            padding: 20px;
+            border-radius: 15px;
+        }
+        input[type=text], select {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        input[type=submit] {
+            width: 100%;
+            background-color: #4CAF50;
+            color: white;
+            padding: 8px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        input[type=submit]:hover {
+            background-color: #45a049;
+        }
+        input[type=reset] {
+            width: 100%;
+            background-color: #af0918;
+            color: white;
+            padding: 8px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
         }
     </style>
 </head>
@@ -53,7 +90,13 @@
 
 <h1>Update or add a country</h1>
 <form action="/update" method="post">
-    <p>Country: <input type="text" name="name" /></p>
+    <label for="country">Country</label>
+    <select id="country" name="country">
+<!--        <option th:each="countryName : ${countryNameList}" th:value="countryName" th:text="countryName"></option>-->
+        <option value="australia">Australia</option>
+        <option value="canada">Canada</option>
+        <option value="usa">USA</option>
+    </select>
     <p>Population: <input type="text" name="population" /></p>
     <p>Government: <input type="text" name="government" /></p>
     <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
@@ -71,9 +114,9 @@
     }
 </script>
 
-<script async defer
-// </script>
-// </body>
-// </html>
+<!--<script async defer-->
+<!--// </script>-->
+</body>
+</html>
 
 
