@@ -9,7 +9,6 @@ import org.springframework.http.HttpStatus
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
 import org.springframework.web.bind.annotation.*
-import java.io.FileReader
 import javax.validation.Valid
 
 
@@ -21,7 +20,7 @@ class MapController(@Autowired val countryService: CountryService) {
     fun greeting(@RequestParam(name="name", required = false, defaultValue = "Jason") name: String, model: Model): String {
         model.addAttribute("name", name)
         model.addAttribute("countries", countryService.findAll())
-//        model.addAttribute("countryNameList", )
+        model.addAttribute("countryNameList", countryService.countryDirectory)
         return "map"
     }
 

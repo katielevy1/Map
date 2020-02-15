@@ -11,6 +11,28 @@
         #map {
             height: 100%;
         }
+
+        #countryTable {
+            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        #countryTable td, #countryTable th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        #countryTable tr:nth-child(even){background-color: #f2f2f2;}
+
+        #countryTable tr:hover {background-color: #ddd;}
+
+        #countryTable th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #4c74af;
+            color: white;
+        }
         html, body {
             height: 100%;
             margin: 0;
@@ -35,7 +57,7 @@
         }
         input[type=submit] {
             width: 100%;
-            background-color: #4CAF50;
+            background-color: #4c74af;
             color: white;
             padding: 8px 20px;
             margin: 8px 0;
@@ -44,7 +66,7 @@
             cursor: pointer;
         }
         input[type=submit]:hover {
-            background-color: #45a049;
+            background-color: #3c5582;
         }
         input[type=reset] {
             width: 100%;
@@ -67,7 +89,7 @@
 
 <h2>List of countries</h2>
 
-<table>
+<table id="countryTable">
     <tr>
         <th>Id</th>
         <th>Name</th>
@@ -88,20 +110,19 @@
     </tr>
 </table>
 
-<h1>Update or add a country</h1>
+<h2>Update or add a country</h2>
 <form action="/update" method="post">
-    <label for="country">Country</label>
-    <select id="country" name="country">
-<!--        <option th:each="countryName : ${countryNameList}" th:value="countryName" th:text="countryName"></option>-->
-        <option value="australia">Australia</option>
-        <option value="canada">Canada</option>
-        <option value="usa">USA</option>
-    </select>
+    <label for="countryNameValue">Country</label>
+    <input list="countryNameValue" class="form-control" id="countries" name="name">  </input>
+    <datalist id="countryNameValue">
+        <option th:each="countryName : ${countryNameList}" th:value="${countryName}">
+    </datalist>
     <p>Population: <input type="text" name="population" /></p>
     <p>Government: <input type="text" name="government" /></p>
     <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
 </form>
 </div>
+
 
 <div id="map"></div>
 <script>

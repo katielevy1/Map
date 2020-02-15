@@ -7,12 +7,15 @@ import org.springframework.boot.json.GsonJsonParser
 import org.springframework.stereotype.Service
 import org.springframework.util.ResourceUtils
 import java.io.FileReader
+import java.util.*
 
 @Service
 class CountryService(@Autowired val countryRepository: CountryRepository) {
     fun findAll() = countryRepository.findAll().toList()
     fun count() = countryRepository.count()
     fun update(country: Country) = countryRepository.save(country)
+
+    val countryDirectory = Locale.getISOCountries().map { Locale("", it) }.map { it.displayCountry }
 
     fun parseCountryNamesJson(): List<Any> {
         val file = ResourceUtils.getFile("classpath:/static/country.json")
