@@ -17,10 +17,4 @@ class CountryService(@Autowired val countryRepository: CountryRepository) {
 
     val countryDirectory = Locale.getISOCountries().map { Locale("", it) }.map { it.displayCountry }
 
-    fun parseCountryNamesJson(): List<Any> {
-        val file = ResourceUtils.getFile("classpath:/static/country.json")
-        val countryNamesJson = FileReader(file).toString()
-        val countryNamesList = GsonJsonParser().parseMap(countryNamesJson).values
-        return  countryNamesList.toList()
-    }
 }

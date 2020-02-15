@@ -102,10 +102,10 @@
     <tr th:each="countryItem : ${countries}">
         <td th:text="${countryItem.id}">id</td>
         <td th:text="${countryItem.name}">name</td>
-        <td th:text="${countryItem.population}">population</td>
+        <td th:text="${#numbers.formatDecimal(countryItem.population, 0, 'COMMA', 0, 'POINT')}">population</td>
         <td th:text="${countryItem.government}">government</td>
         <td th:text="${countryItem.currency}">currency</td>
-        <td th:text="${countryItem.gdp}">GDP</td>
+        <td th:text="${#numbers.formatDecimal(countryItem.gdp, 0, 'COMMA', 0, 'POINT')}">GDP</td>
         <td th:text="${countryItem.other}">other</td>
     </tr>
 </table>

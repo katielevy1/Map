@@ -18,10 +18,10 @@ class MyRunner(@Autowired private val countryRepository: CountryRepository): Com
     override fun run(vararg args: String?) {
         logger.info("initializing countries")
 
-        countryRepository.save(Country("US", 327167434, "Democracy", "$$"))
-        countryRepository.save(Country("Spain"))
-        countryRepository.save(Country("Mexico"))
-        countryRepository.save(Country("Canada", 1242343))
+        countryRepository.save(Country("United States", 331883986, "Democracy", "$$", 20544000000))
+        countryRepository.save(Country("Spain", 49331076))
+        countryRepository.save(Country("Mexico", 135295893))
+        countryRepository.save(Country("Canada", 35151728))
 
     }
 

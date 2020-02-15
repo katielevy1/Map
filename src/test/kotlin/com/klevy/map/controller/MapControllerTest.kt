@@ -14,9 +14,4 @@ class MapControllerTest {
 
     @Autowired lateinit var countryService: CountryService
 
-    @Test
-    fun parseCountryNames() {
-        val parseCountryNamesJson = countryService.parseCountryNamesJson()
-        Assert.assertEquals(null, parseCountryNamesJson)
-    }
 }
