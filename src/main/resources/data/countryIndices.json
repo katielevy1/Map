@@ -1,0 +1,1232 @@
+[
+ {
+   "country": "Afghanistan",
+   "politicalRights": "5",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Albania",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Algeria",
+   "politicalRights": "6",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Andorra",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Angola",
+   "politicalRights": "6",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Antigua and Barbuda",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Argentina",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Armenia",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Australia",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Austria",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Azerbaijan",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Bahamas",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Bahrain",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Bangladesh",
+   "politicalRights": "5",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Barbados",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Belarus",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Belgium",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Belize",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Benin",
+   "politicalRights": "4",
+   "civilLiberties": "2",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Bhutan",
+   "politicalRights": "3",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Bolivia",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Bosnia and Herzegovina",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Botswana",
+   "politicalRights": "3",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Brazil",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Brunei",
+   "politicalRights": "6",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Bulgaria",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Burkina Faso",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Burundi",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Cambodia",
+   "politicalRights": "7",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Cameroon",
+   "politicalRights": "6",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Canada",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Cabo Verde",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Central African Republic",
+   "politicalRights": "7",
+   "civilLiberties": "7",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Chad",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Chile",
+   "politicalRights": "1",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "China",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Colombia",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Comoros",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Congo (Brazzaville)",
+   "politicalRights": "7",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Congo (Kinshasa)",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Costa Rica",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Cote d'Ivoire",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Croatia",
+   "politicalRights": "1",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Cuba",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Cyprus",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Czech Republic",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Czechoslovakia",
+   "politicalRights": "-",
+   "civilLiberties": "-",
+   "freedomStatus": "-"
+ },
+ {
+   "country": "Denmark",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Djibouti",
+   "politicalRights": "7",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Dominica",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Dominican Republic",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Ecuador",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Egypt",
+   "politicalRights": "6",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "El Salvador",
+   "politicalRights": "2",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Equatorial Guinea",
+   "politicalRights": "7",
+   "civilLiberties": "7",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Eritrea",
+   "politicalRights": "7",
+   "civilLiberties": "7",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Estonia",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Eswatini",
+   "politicalRights": "7",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Ethiopia",
+   "politicalRights": "6",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Fiji",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Finland",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "France",
+   "politicalRights": "1",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Gabon",
+   "politicalRights": "7",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Georgia",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Germany",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Germany, E. ",
+   "politicalRights": "-",
+   "civilLiberties": "-",
+   "freedomStatus": "-"
+ },
+ {
+   "country": "Germany, W. ",
+   "politicalRights": "-",
+   "civilLiberties": "-",
+   "freedomStatus": "-"
+ },
+ {
+   "country": "Ghana",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Greece",
+   "politicalRights": "1",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Grenada",
+   "politicalRights": "1",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Guatemala",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Guinea",
+   "politicalRights": "5",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Guinea-Bissau",
+   "politicalRights": "5",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Guyana",
+   "politicalRights": "2",
+   "civilLiberties": "3",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Haiti",
+   "politicalRights": "5",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Honduras",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Hungary",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Iceland",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "India",
+   "politicalRights": "2",
+   "civilLiberties": "3",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Indonesia",
+   "politicalRights": "2",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Iran",
+   "politicalRights": "6",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Iraq",
+   "politicalRights": "5",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Ireland",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Israel",
+   "politicalRights": "2",
+   "civilLiberties": "3",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Italy",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Jamaica",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Japan",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Jordan",
+   "politicalRights": "5",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Kazakhstan",
+   "politicalRights": "7",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Kenya",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Kiribati",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Kosovo",
+   "politicalRights": "3",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Kuwait",
+   "politicalRights": "5",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Kyrgyzstan",
+   "politicalRights": "5",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Laos",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Latvia",
+   "politicalRights": "1",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Lebanon",
+   "politicalRights": "5",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Lesotho",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Liberia",
+   "politicalRights": "3",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Libya",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Liechtenstein",
+   "politicalRights": "2",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Lithuania",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Luxembourg",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "North Macedonia",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Madagascar",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Malawi",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Malaysia",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Maldives",
+   "politicalRights": "4",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Mali",
+   "politicalRights": "5",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Malta",
+   "politicalRights": "2",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Marshall Islands",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Mauritania",
+   "politicalRights": "5",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Mauritius",
+   "politicalRights": "1",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Mexico",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Micronesia",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Moldova",
+   "politicalRights": "3",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Monaco",
+   "politicalRights": "3",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Mongolia",
+   "politicalRights": "1",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Montenegro",
+   "politicalRights": "4",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Morocco",
+   "politicalRights": "5",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Mozambique",
+   "politicalRights": "5",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Myanmar",
+   "politicalRights": "5",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Namibia",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Nauru",
+   "politicalRights": "2",
+   "civilLiberties": "3",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Nepal",
+   "politicalRights": "3",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Netherlands",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "New Zealand",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Nicaragua",
+   "politicalRights": "6",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Niger",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Nigeria",
+   "politicalRights": "4",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "North Korea",
+   "politicalRights": "7",
+   "civilLiberties": "7",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Norway",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Oman",
+   "politicalRights": "6",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Pakistan",
+   "politicalRights": "5",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Palau",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Panama",
+   "politicalRights": "1",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Papua New Guinea",
+   "politicalRights": "4",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Paraguay",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Peru",
+   "politicalRights": "2",
+   "civilLiberties": "3",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Philippines",
+   "politicalRights": "3",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Poland",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Portugal",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Qatar",
+   "politicalRights": "6",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Romania",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Russia",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Rwanda",
+   "politicalRights": "6",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Samoa",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "San Marino",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Sao Tome and Principe",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Saudi Arabia",
+   "politicalRights": "7",
+   "civilLiberties": "7",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Senegal",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Serbia",
+   "politicalRights": "4",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Serbia and Montenegro",
+   "politicalRights": "-",
+   "civilLiberties": "-",
+   "freedomStatus": "-"
+ },
+ {
+   "country": "Seychelles",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Sierra Leone",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Singapore",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Slovakia",
+   "politicalRights": "1",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Slovenia",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Solomon Islands",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Somalia",
+   "politicalRights": "7",
+   "civilLiberties": "7",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "South Africa",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "South Korea",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "South Sudan",
+   "politicalRights": "7",
+   "civilLiberties": "7",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Spain",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Sri Lanka",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "St. Kitts and Nevis",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "St. Lucia",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "St. Vincent and the Grenadines",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Sudan",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Suriname",
+   "politicalRights": "2",
+   "civilLiberties": "3",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Sweden",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Switzerland",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Syria",
+   "politicalRights": "7",
+   "civilLiberties": "7",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Taiwan",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Tajikistan",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Tanzania",
+   "politicalRights": "5",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Thailand",
+   "politicalRights": "6",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "The Gambia",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Timor-Leste",
+   "politicalRights": "2",
+   "civilLiberties": "3",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Togo",
+   "politicalRights": "5",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Tonga",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Trinidad and Tobago",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Tunisia",
+   "politicalRights": "2",
+   "civilLiberties": "3",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Turkey",
+   "politicalRights": "5",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Turkmenistan",
+   "politicalRights": "7",
+   "civilLiberties": "7",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Tuvalu",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Uganda",
+   "politicalRights": "6",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Ukraine",
+   "politicalRights": "3",
+   "civilLiberties": "3",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "United Arab Emirates",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "United Kingdom",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "United States",
+   "politicalRights": "2",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Uruguay",
+   "politicalRights": "1",
+   "civilLiberties": "1",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "USSR",
+   "politicalRights": "-",
+   "civilLiberties": "-",
+   "freedomStatus": "-"
+ },
+ {
+   "country": "Uzbekistan",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Vanuatu",
+   "politicalRights": "2",
+   "civilLiberties": "2",
+   "freedomStatus": "F"
+ },
+ {
+   "country": "Venezuela",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Vietnam",
+   "politicalRights": "7",
+   "civilLiberties": "5",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Vietnam, N.",
+   "politicalRights": "-",
+   "civilLiberties": "-",
+   "freedomStatus": "-"
+ },
+ {
+   "country": "Vietnam, S.",
+   "politicalRights": "-",
+   "civilLiberties": "-",
+   "freedomStatus": "-"
+ },
+ {
+   "country": "Yemen",
+   "politicalRights": "7",
+   "civilLiberties": "6",
+   "freedomStatus": "NF"
+ },
+ {
+   "country": "Yemen, N.",
+   "politicalRights": "-",
+   "civilLiberties": "-",
+   "freedomStatus": "-"
+ },
+ {
+   "country": "Yemen, S.",
+   "politicalRights": "-",
+   "civilLiberties": "-",
+   "freedomStatus": "-"
+ },
+ {
+   "country": "Yugoslavia",
+   "politicalRights": "-",
+   "civilLiberties": "-",
+   "freedomStatus": "-"
+ },
+ {
+   "country": "Zambia",
+   "politicalRights": "4",
+   "civilLiberties": "4",
+   "freedomStatus": "PF"
+ },
+ {
+   "country": "Zimbabwe",
+   "politicalRights": "5",
+   "civilLiberties": "5",
+   "freedomStatus": "PF"
+ }
+]

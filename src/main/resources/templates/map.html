@@ -97,6 +97,9 @@
         <th>Government</th>
         <th>Currency</th>
         <th>GDP</th>
+        <th>Freedom Status</th>
+        <th>Civil Liberties</th>
+        <th>Political Rights</th>
         <th>Other</th>
     </tr>
     <tr th:each="countryItem : ${countries}">
@@ -106,6 +109,9 @@
         <td th:text="${countryItem.government}">government</td>
         <td th:text="${countryItem.currency}">currency</td>
         <td th:text="${#numbers.formatDecimal(countryItem.gdp, 0, 'COMMA', 0, 'POINT')}">GDP</td>
+        <td th:text="${countryItem.freedomStatus}">freedomStatus</td>
+        <td th:text="${countryItem.civilLiberties}">civilLiberties</td>
+        <td th:text="${countryItem.politicalRights}">politicalRights</td>
         <td th:text="${countryItem.other}">other</td>
     </tr>
 </table>

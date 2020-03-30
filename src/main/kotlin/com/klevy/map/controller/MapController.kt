@@ -4,7 +4,6 @@ import com.klevy.map.dataModels.Country
 import com.klevy.map.service.CountryService
 import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Autowired
-import org.springframework.boot.json.GsonJsonParser
 import org.springframework.http.HttpStatus
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
